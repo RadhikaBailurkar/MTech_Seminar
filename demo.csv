@@ -1,0 +1,12 @@
+Slide ,S_Percentage,Handwriting,H_Percentage,Pinch ,P_Percentage,Identify_User
+Start Point X ,20.6,Left Margin,12.3,FC Start Point Pos X,19.2,Yes
+Start Point Y,16.4,Right Margin,11.1,FC Start Point Pos Y,16,Yes
+Start Point Size,18.7,Vertical Direction,2.4,FC Start Point Size,14.3,Yes
+Start Point Press,10.1,Horizontal Direction,2.4,FC Start Point Pressure,13.8,No
+Start Point Velocity,10.6,Avg Size,18.2,SC Start Point X,13.9,No
+Start Direction,2.7,Avg Pressure,20.9,SC Start Point Y,15.5,Yes
+Rotation,4,Width,13.4,SC Start Point Size,18,No
+Traj Length,17.1,Height,15,SC Start Point Pressure,11,Yes
+Avg Distance,8.7,Area Size,15.8,FC Traj Lengyth,15.6,Yes
+Avg Size,15.5,Total Traj Length,20.6,SC Traj Length,16.7,No
+Avg Pressure,14,Stop Direction,2,Start Distance,13.5,No
