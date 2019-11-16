@@ -34,3 +34,10 @@ Gaps
   
   @ Influence of sample size
   
+  
+  
+  #Phase 3
+  
+  Publish a report containing the implementation of the classifiers used. 
+  Take Accuracy into study
+  
