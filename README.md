@@ -29,7 +29,7 @@ FRR,FAR,ERR and ROC were most popularly used metrics. A workflow model was devel
   
 * **We report that combining multiple features gives better results than using each single feature alone**
   
-  @ Sometimes an impersonator might mimic the touch behaviour of another user.(For example, he can be a friend, coworker or a family member)
+* **Sometimes an impersonator might mimic the touch behaviour of another user.(For example, he can be a friend, coworker or a family member)**
   
 * **Increase the feature space by including a categorical variable that records values like ‘read e-mail’, ‘write e-mail’, ‘browse’, ‘control music player’**
   
@@ -42,3 +42,10 @@ FRR,FAR,ERR and ROC were most popularly used metrics. A workflow model was devel
   Publish a report containing the implementation of the classifiers used. 
   Take Accuracy into study
   
+## Running Files
+
+### Installations
+
+* **You need to have Python installed in your system**
+* **Jupyter Notebook or PyCharm**
+
