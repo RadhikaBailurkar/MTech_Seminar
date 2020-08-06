@@ -1,6 +1,8 @@
 # MTech_Seminar
 Documentation of Phases, Python Implementation
 
+### Note :These is just a study, created with guidance of research papers in similar domain knowledge. The Dataset was created by me with reference to a large dataset available. The implementation throws light on how accuracy can be judged through various models. Also no 'Software to detect authentication' has been done.
+
 # SMARTPHONE AUTHENTICATION USING SOFT BIOMETRICS
 
 ## Phase 1 
